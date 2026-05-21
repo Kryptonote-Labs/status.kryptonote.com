@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1090,
-    "timeDay": 1100,
-    "timeWeek": 1024,
-    "timeMonth": 1090,
-    "timeYear": 1090,
+    "time": 1122,
+    "timeDay": 1439,
+    "timeWeek": 1108,
+    "timeMonth": 1122,
+    "timeYear": 1122,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kryptonote.com.ico",
     "slug": "kryptonote-file-upload",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 410,
-    "timeDay": 514,
-    "timeWeek": 473,
-    "timeMonth": 410,
-    "timeYear": 410,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 407,
+    "timeDay": 432,
+    "timeWeek": 459,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2026-05-09": 31
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 487,
-    "timeWeek": 444,
-    "timeMonth": 431,
-    "timeYear": 431,
+    "time": 425,
+    "timeDay": 422,
+    "timeWeek": 434,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {}
   }
 ]
