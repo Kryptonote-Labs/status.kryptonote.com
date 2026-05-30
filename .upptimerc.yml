@@ -7,6 +7,8 @@ sites:
     url: https://www.kryptonote.com
   - name: Kryptonote File Upload
     url: https://api.kryptonote.com
+  - name: Kryptonote Artefacts
+    url: https://artefacts.kryptonote.com
   - name: Kryptonote AI
     url: http://s-p-ai-01.kryptonote.com
     expectedStatusCodes:
