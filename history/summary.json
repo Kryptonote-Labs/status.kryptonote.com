@@ -22,19 +22,20 @@
     "url": "https://api.kryptonote.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.kryptonote.com.ico",
     "slug": "kryptonote-file-upload",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 440,
-    "timeDay": 517,
-    "timeWeek": 494,
-    "timeMonth": 454,
-    "timeYear": 440,
+    "time": 432,
+    "timeDay": 268,
+    "timeWeek": 434,
+    "timeMonth": 443,
+    "timeYear": 432,
     "dailyMinutesDown": {
-      "2026-05-09": 31
+      "2026-05-09": 31,
+      "2026-06-21": 1
     }
   },
   {
@@ -42,53 +43,59 @@
     "url": "https://artefacts.kryptonote.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/artefacts.kryptonote.com.ico",
     "slug": "kryptonote-artefacts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 468,
-    "timeDay": 211,
-    "timeWeek": 409,
-    "timeMonth": 468,
-    "timeYear": 468,
-    "dailyMinutesDown": {}
+    "time": 452,
+    "timeDay": 119,
+    "timeWeek": 361,
+    "timeMonth": 452,
+    "timeYear": 452,
+    "dailyMinutesDown": {
+      "2026-06-21": 1
+    }
   },
   {
     "name": "Kryptonote AI",
     "url": "http://s-p-ai-01.kryptonote.com",
     "icon": "https://icons.duckduckgo.com/ip3/s-p-ai-01.kryptonote.com.ico",
     "slug": "kryptonote-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 542,
-    "timeWeek": 501,
-    "timeMonth": 464,
-    "timeYear": 455,
-    "dailyMinutesDown": {}
+    "time": 446,
+    "timeDay": 283,
+    "timeWeek": 441,
+    "timeMonth": 452,
+    "timeYear": 446,
+    "dailyMinutesDown": {
+      "2026-06-21": 0
+    }
   },
   {
     "name": "Convex",
     "url": "https://convex.kryptonote.com",
     "icon": "https://icons.duckduckgo.com/ip3/convex.kryptonote.com.ico",
     "slug": "convex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 522,
-    "timeWeek": 484,
-    "timeMonth": 455,
-    "timeYear": 455,
-    "dailyMinutesDown": {}
+    "time": 434,
+    "timeDay": 273,
+    "timeWeek": 426,
+    "timeMonth": 434,
+    "timeYear": 434,
+    "dailyMinutesDown": {
+      "2026-06-21": 0
+    }
   }
 ]
