@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kryptonote.com.ico",
     "slug": "kryptonote-file-upload",
     "status": "down",
-    "uptime": "90.97%",
+    "uptime": "90.79%",
     "uptimeDay": "52.94%",
-    "uptimeWeek": "79.25%",
-    "uptimeMonth": "93.81%",
-    "uptimeYear": "90.97%",
+    "uptimeWeek": "76.95%",
+    "uptimeMonth": "93.28%",
+    "uptimeYear": "90.79%",
     "time": 401,
     "timeDay": 365,
     "timeWeek": 331,
@@ -45,7 +45,7 @@
       "2026-07-15": 558,
       "2026-07-28": 1375,
       "2026-07-27": 716,
-      "2026-07-29": 1
+      "2026-07-29": 232
     }
   },
   {
@@ -54,11 +54,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/artefacts.kryptonote.com.ico",
     "slug": "kryptonote-artefacts",
     "status": "down",
-    "uptime": "87.77%",
+    "uptime": "87.53%",
     "uptimeDay": "52.96%",
-    "uptimeWeek": "79.25%",
-    "uptimeMonth": "93.81%",
-    "uptimeYear": "87.77%",
+    "uptimeWeek": "76.96%",
+    "uptimeMonth": "93.28%",
+    "uptimeYear": "87.53%",
     "time": 411,
     "timeDay": 413,
     "timeWeek": 356,
@@ -75,7 +75,7 @@
       "2026-07-15": 558,
       "2026-07-28": 1375,
       "2026-07-27": 716,
-      "2026-07-29": 1
+      "2026-07-29": 232
     }
   },
   {
@@ -83,17 +83,17 @@
     "url": "http://s-p-ai-01.kryptonote.com",
     "icon": "https://icons.duckduckgo.com/ip3/s-p-ai-01.kryptonote.com.ico",
     "slug": "kryptonote-ai",
-    "status": "down",
-    "uptime": "90.75%",
-    "uptimeDay": "52.97%",
-    "uptimeWeek": "79.25%",
-    "uptimeMonth": "93.81%",
-    "uptimeYear": "90.75%",
-    "time": 416,
-    "timeDay": 449,
-    "timeWeek": 365,
-    "timeMonth": 414,
-    "timeYear": 416,
+    "status": "up",
+    "uptime": "90.56%",
+    "uptimeDay": "52.98%",
+    "uptimeWeek": "76.96%",
+    "uptimeMonth": "93.28%",
+    "uptimeYear": "90.56%",
+    "time": 415,
+    "timeDay": 422,
+    "timeWeek": 363,
+    "timeMonth": 412,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2026-06-26": 1331,
       "2026-06-25": 1440,
@@ -105,7 +105,7 @@
       "2026-07-15": 558,
       "2026-07-28": 1375,
       "2026-07-27": 716,
-      "2026-07-29": 0
+      "2026-07-29": 231
     }
   },
   {
@@ -113,17 +113,17 @@
     "url": "https://convex.kryptonote.com",
     "icon": "https://icons.duckduckgo.com/ip3/convex.kryptonote.com.ico",
     "slug": "convex",
-    "status": "down",
-    "uptime": "86.96%",
-    "uptimeDay": "52.98%",
-    "uptimeWeek": "79.26%",
-    "uptimeMonth": "93.96%",
-    "uptimeYear": "86.96%",
-    "time": 377,
-    "timeDay": 348,
-    "timeWeek": 328,
-    "timeMonth": 389,
-    "timeYear": 377,
+    "status": "up",
+    "uptime": "86.70%",
+    "uptimeDay": "52.99%",
+    "uptimeWeek": "76.97%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "86.70%",
+    "time": 375,
+    "timeDay": 333,
+    "timeWeek": 324,
+    "timeMonth": 386,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2026-06-26": 1331,
       "2026-06-25": 1440,
@@ -134,7 +134,7 @@
       "2026-07-15": 554,
       "2026-07-28": 1375,
       "2026-07-27": 716,
-      "2026-07-29": 0
+      "2026-07-29": 231
     }
   }
 ]
