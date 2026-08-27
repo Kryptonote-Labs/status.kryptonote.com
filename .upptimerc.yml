@@ -5,10 +5,8 @@ repo: status.kryptonote.com # The name of this repository
 sites:
   - name: Kryptonote Frontend
     url: https://www.kryptonote.com
-  - name: Kryptonote AI
-    url: http://s-p-ai-01.kryptonote.com
-    expectedStatusCodes:
-      - 404
+  - name: Kryptonote Backend
+    url: http:/api.kryptonote.com
   - name: Convex
     url: https://convex.kryptonote.com
 
